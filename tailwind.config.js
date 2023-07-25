@@ -18,8 +18,9 @@ module.exports = {
         'mint': '#46e801',
         'lapis-blue': '#1E6B94',
         'dark-purple': '#731C94',
-        'navy-blue': '#02343F',
-        'off-white': '#F0EDCC'
+        'navy-blue': '#CC313D',
+        'off-white': '#F0EDCC',
+        'coral-pink': '#254441'
       }
     },
   },

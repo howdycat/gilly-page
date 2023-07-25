@@ -62,10 +62,6 @@ export const codeTools = [
 
 export const designSkills = [
   {
-    name: "Digital Illustration",
-    image: "src/assets/skills/Sketch.svg",
-  },
-  {
     name: "Web Design",
     image: "src/assets/skills/Web.svg",
   },
@@ -78,7 +74,7 @@ export const designSkills = [
     image: "src/assets/skills/Animate.svg",
   },
   {
-    name: "3D Modelling",
+    name: "3D Modeling",
     image: "src/assets/skills/Blender.svg",
   },
 ];
