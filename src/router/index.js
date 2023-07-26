@@ -6,10 +6,7 @@ const routes = [
     {
         path: '/',
         name: 'Home',
-        component: HomePage,
-        props(route) {
-            return { animate: route.query.animate }
-        }
+        component: HomePage
     },
     {
         path: '/resume',
@@ -18,7 +15,7 @@ const routes = [
     }
 ]
 const router = createRouter({
-    history: createWebHistory('/gilly/'),
+    history: createWebHistory(),
     routes
 })
 export default router

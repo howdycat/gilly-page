@@ -16,7 +16,7 @@
                 return anime({
                     targets: '#text',
                     autoplay: true,
-                    translateY: -150,
+                    translateY: -200,
                     complete: () => {
                         finished.value = true
                     }
