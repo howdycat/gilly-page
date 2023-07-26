@@ -1,3 +1,1 @@
-module.exports = {
-    publicPath: '/gilly/'
-}
+module.exports = {}
