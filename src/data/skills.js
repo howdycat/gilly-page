@@ -1,80 +1,80 @@
 export const languages = [
     {
         name: 'TypeScript',
-        image: '@/assets/skills/TypeScript.svg'
+        image: 'public/assets/skills/TypeScript.svg'
     },
     {
         name: 'JavaScript',
-        image: '@/assets/skills/JavaScript.svg'
+        image: 'public/assets/skills/JavaScript.svg'
     },
     {
         name: 'Java',
-        image: '@/assets/skills/Java.svg'
+        image: 'public/assets/skills/Java.svg'
     },
     {
         name: 'C#',
-        image: '@/assets/skills/CSharp.svg'
+        image: 'public/assets/skills/CSharp.svg'
     },
     {
         name: 'HTML',
-        image: '@/assets/skills/HTML.svg'
+        image: 'public/assets/skills/HTML.svg'
     },
     {
         name: 'CSS',
-        image: '@/assets/skills/CSS.svg'
+        image: 'public/assets/skills/CSS.svg'
     },
     {
         name: 'C',
-        image: '@/assets/skills/C.svg'
+        image: 'public/assets/skills/C.svg'
     }
 ]
 
 export const codeTools = [
     {
         name: 'Bootstrap',
-        image: '@/assets/skills/Bootstrap.svg'
+        image: 'public/assets/skills/Bootstrap.svg'
     },
     {
         name: 'Angular 2',
-        image: '@/assets/skills/Angular.svg'
+        image: 'public/assets/skills/Angular.svg'
     },
     {
         name: 'Storybook',
-        image: '@/assets/skills/Storybook.svg'
+        image: 'public/assets/skills/Storybook.svg'
     },
     {
         name: 'React',
-        image: '@/assets/skills/React.svg'
+        image: 'public/assets/skills/React.svg'
     },
     {
         name: 'Tailwind CSS',
-        image: '@/assets/skills/Tailwind.svg'
+        image: 'public/assets/skills/Tailwind.svg'
     },
     {
         name: 'Node.js',
-        image: '@/assets/skills/NodeJS.svg'
+        image: 'public/assets/skills/NodeJS.svg'
     },
     {
         name: 'Vue.js',
-        image: '@/assets/skills/VueJS.svg'
+        image: 'public/assets/skills/VueJS.svg'
     }
 ]
 
 export const designSkills = [
     {
         name: 'Web Design',
-        image: '@/assets/skills/Web.svg'
+        image: 'public/assets/skills/Web.svg'
     },
     {
         name: 'UI / UX',
-        image: '@/assets/skills/Ux.svg'
+        image: 'public/assets/skills/Ux.svg'
     },
     {
         name: 'Web Animation',
-        image: '@/assets/skills/Animate.svg'
+        image: 'public/assets/skills/Animate.svg'
     },
     {
         name: '3D Modeling',
-        image: '@/assets/skills/Blender.svg'
+        image: 'public/assets/skills/Blender.svg'
     }
 ]
