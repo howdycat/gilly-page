@@ -29,7 +29,7 @@
 <template>
     <div class="flex flex-col items-center justify-center p-5 bg-cherry-red h-screen w-screen">
         <div id="text" class="text-center lg:mb-0 md:mb-0 mb-6">
-            <span id="type-container" ref="type" class="font-merriweather font-black text-8xl leading-tight text-off-white p-2"> </span>
+            <span id="type-container" ref="type" class="font-merriweather font-black lg:text-8xl text-6xl leading-tight text-off-white p-2"> </span>
         </div>
         <div id="side" class="w-4/5 lg:w-1/2 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 p-0">
             <Sidebar v-if="finished"></Sidebar>

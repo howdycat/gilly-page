@@ -6,7 +6,7 @@
 
 <template>
     <div :class="bg">
-        <div class="w-full text-center font-merriweather p-3 text-xl" :class="text">
+        <div class="w-full text-center font-merriweather p-3 text-lg" :class="text">
             {{ header }}
         </div>
         <div class="flex flex-wrap justify-center" :class="text">
