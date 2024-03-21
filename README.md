@@ -1,29 +1,6 @@
-# gilly
+# Gilly-page
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the github repo containing the source code for my personal website [gilly.page](https://gilly.page/). This webpage is a constant work in progress and used as both a portfolio for my skills and an environment I use for learning new frontend technologies and techniques.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+If you have any questions, feel free to reach out to me via email (listed on my website!)
