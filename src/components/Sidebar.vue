@@ -3,6 +3,7 @@
     import { onMounted } from 'vue'
 
     // Define a prop for whether or not to play button fly in animations
+    // TODO allow the disabling of animations
     const props = defineProps({
         animate: {
             default: true
@@ -78,6 +79,7 @@
 
 <template>
     <div class="flex-col font-merriweather text-4xl w-full">
+        <!-- Add navigation links below here as router-link elements -->
         <router-link to="/resume">
             <div id="item3" class="nav-button bg-bubblegum-pink p-5 text-cherry-red min-w-full">Resume</div>
         </router-link>
