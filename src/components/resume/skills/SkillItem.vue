@@ -8,7 +8,7 @@
 
 <template>
     <div class="text-center w-20 m-2 mt-0 mb-1 font-merriweather">
-        <div class="w-3/4 mb-1">
+        <div class="w-3/4 mb-1 mx-auto">
             <img :src="skill.image" />
         </div>
         <div>{{ skill.name }}</div>

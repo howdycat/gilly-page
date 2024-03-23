@@ -14,7 +14,7 @@ module.exports = {
         'cherry-red': '#CC313D',
         'bubblegum-pink': '#F7C5CC',
         'light-blue': '#46CDCF',
-        'loud-yellow': '#f5e100',
+        'pale-yellow': '#FDFD96',
         'mint': '#46e801',
         'lapis-blue': '#1E6B94',
         'dark-purple': '#731C94',

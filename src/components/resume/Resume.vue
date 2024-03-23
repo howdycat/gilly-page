@@ -6,7 +6,7 @@
 </script>
 
 <template>
-    <div class="bg-cherry-red h-screen">
+    <div class="bg-cherry-red h-full">
         <div class="xl:w-3/4 mx-auto lg:drop-shadow-lg p-3 bg-off-white">
             <ResumeHeader></ResumeHeader>
             <Education></Education>

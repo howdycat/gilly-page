@@ -6,6 +6,8 @@
     import { ref } from 'vue'
     const finished = ref(false)
 
+    // Once the page is mounted, start the TypeWriter animation.
+    // Once done, we want to translate the text to make room for the navigation buttons.
     onMounted(() => {
         const typewriter = new Typed('#type-container', {
             strings: ["Hi, ^500 I'm Gilly"],

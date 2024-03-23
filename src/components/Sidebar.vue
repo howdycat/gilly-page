@@ -81,7 +81,10 @@
     <div class="flex-col font-merriweather text-4xl w-full">
         <!-- Add navigation links below here as router-link elements -->
         <router-link to="/resume">
-            <div id="item3" class="nav-button bg-bubblegum-pink p-5 text-cherry-red min-w-full">Resume</div>
+            <div id="item1" class="nav-button bg-bubblegum-pink p-5 text-cherry-red min-w-full">Resume</div>
         </router-link>
+        <a href="https://github.com/howdycat">
+            <div id="item2" class="nav-button bg-pale-yellow p-5 text-cherry-red min-w-full">Github</div>
+        </a>
     </div>
 </template>
